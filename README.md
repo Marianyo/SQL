@@ -1,3 +1,2 @@
-SQL
-Exercicis creació estructura de dades
-Exercicis USFlights
+--SQL--
+Exercicis creació estructura de dades & Exercicis USFlights
